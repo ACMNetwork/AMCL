@@ -1,3 +1,6 @@
+本项目是AMCL，一个HMCL的分叉版本。以下是原始项目（HMCL）的Readme。
+
+----
 # ⛏ Hello Minecraft! Launcher 💎
 
 [![Build Status](https://ci.huangyuhui.net/job/HMCL/badge/icon?.svg)](https://ci.huangyuhui.net/job/HMCL)
