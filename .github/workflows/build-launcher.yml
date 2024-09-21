@@ -9,6 +9,7 @@ on:
     paths:
       - 'HMCLauncher/**'
       - '.github/workflows/build-launcher.yml'
+  workflow_dispatch:
 
 jobs:
   build:
