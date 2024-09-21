@@ -32,7 +32,7 @@ public final class Metadata {
 
     public static final String NAME = "AMCL";
     public static final String FULL_NAME = "ACM Minecraft Launcher (A fork of HMCL)";
-    public static final String VERSION = System.getProperty("hmcl.version.override", JarUtils.getManifestAttribute("Implementation-Version", "@develop@"));
+    public static final String VERSION = "v1.0.0";
 
     public static final String TITLE = NAME + " " + VERSION;
     public static final String FULL_TITLE = FULL_NAME + " v" + VERSION;
